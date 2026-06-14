@@ -4,6 +4,8 @@
 
 A firmware for the **SparkFun Pro Micro** (ATmega32U4) and clones that turns any standard iambic morse paddle into a plug-and-play USB HID interface for [VBand](https://vband.in) and other browser-based CW trainers — while simultaneously decoding everything you send to a **20×4 I2C character LCD** in real time.
 
+> Note that most PCF8574-based LCD modules operate correctly at 3.3V; the test-bed generic module functioned perfectly.
+
 No drivers. No custom software on the PC. Just plug in, focus your browser tab, and key away.
 
 ---
