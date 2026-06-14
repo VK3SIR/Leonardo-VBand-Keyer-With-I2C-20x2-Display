@@ -1,4 +1,4 @@
-# VBand HID Paddle Keyer + Morse Decoder
+# Leonardo Micro based VBand HID Paddle Keyer + Morse Decoder
 
 **Note:** This is an experiment and is based on queries (initially) presented to https://claude.ai, cleaned up and then re-presented back to that same differential engine for final cleanups. This differential engine is good - but not perfect. Use at your own risk. Please comment on any problematic areas.
 
