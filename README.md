@@ -1,6 +1,6 @@
 # Leonardo Micro based VBand HID Paddle Keyer + Morse Decoder
 
-**Note:** This is an experiment and is based on queries (initially) presented to https://claude.ai, cleaned up and then re-presented back to that same differential engine for final cleanups. This differential engine is good - but not perfect. Use at your own risk. Please comment on any problematic areas.
+**Note:** This is an experiment and is based on queries (initially) presented to https://claude.ai, cleaned up and then re-presented back to that same probability engine for final cleanups. This engine is good for code - but not perfect. Use at your own risk. Please comment on any problematic areas.
 
 A firmware for the **SparkFun Pro Micro** (ATmega32U4) and clones that turns any standard iambic morse paddle into a plug-and-play USB HID interface for [VBand](https://vband.in) and other browser-based CW trainers — while simultaneously decoding everything you send to a **20×4 I2C character LCD** in real time.
 
